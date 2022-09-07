@@ -16,6 +16,6 @@
 <h3><b>How to create a Crib Sheet</b></h3>
 
 <ul>
-  <li>Open the VATSSA Crib Sheet template - https://vatssa.com/cribsheets/template.pub</li>
+  <li>Open the VATSSA Crib Sheet template - https://vatssa.com/cribsheets/Template.pub</li>
   
 </ul>
