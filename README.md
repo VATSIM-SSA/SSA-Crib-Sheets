@@ -18,5 +18,13 @@ After creating an issue, assign it to yourself on the right side under 'Assignee
 
 <ul>
   <li>Open the VATSSA Crib Sheet template - https://vatssa.com/cribsheets/Template.pub</li>
+  <li>Make crib sheet - We require a minimum of:-<br>
+  1. test 1 </br>
+  2. test 2
+  
+  </li>
+  
+  <li>Send the completed Crib sheet in .pub format to cribsheets@vatssa.com</li>
+  
   
 </ul>
