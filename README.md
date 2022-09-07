@@ -9,9 +9,10 @@
   <li>Adobe Reader or a PDF reading software</li>
 </ul>
 
+<b>Before you start, check an issue does not already exist for the airport you wish to create a crib sheet for</b> https://github.com/VATSIM-SSA/SSA-Crib-Sheets/issues</br>
+<b>If there is nobody else working on your chosen airport, create a new issue. Title = Airport + (ICAO).</br>
+After creating an issue, assign it to yourself on the right side under 'Assignees'
 
-<b>Before you start, check an issue does not already exist for the airport you wish to create a crib sheet for</b> https://github.com/VATSIM-SSA/SSA-Crib-Sheets/issues
-<b>If there is nobody else working on your chosen airport, create a new issue. Title = Airport + (ICAO).
 
 <h3><b>How to create a Crib Sheet</b></h3>
 
